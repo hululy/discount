@@ -2,7 +2,7 @@ import csv
 from datetime import datetime
 
 from matplotlib import pyplot as plt
-
+testtt='tesst'
 # 从文件中获取日期、最高气温和最低气温
 filename = 'sitka_weather_2014.csv'
 with open(filename) as f:
